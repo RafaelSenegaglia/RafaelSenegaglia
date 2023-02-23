@@ -31,4 +31,3 @@ Iniciei meus esudos na área de programação em 2022.
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-![Snake animation](https://github.com/RafaelSenegaglia/RafaelSenegaglia/blob/output/github-contribution-grid-snake.svg)
