@@ -4,7 +4,7 @@
 
 <h3> Desenvolvedor Front-End.</h3>
 
-Iniciei meus esudos na área de programação em 2022.
+Iniciei meus estudos na área de programação em 2022.
 
 * 🌍 Eu nasci e moro em Curitiba-PR 🇧🇷
 * ✉️ Você pode contatar-me via contatorafaelsenegaglia@gmail.com
@@ -20,7 +20,11 @@ Iniciei meus esudos na área de programação em 2022.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  </div> <br>
   
-  <h3> Redes Sociais: </h3>
+<br><img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSenegaglia&layout=compact&theme=radical">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelSenegaglia&show_icons=true&theme=radical"><br>
+
+<h3> Redes Sociais: </h3>
   
   <div> 
   <a href="https://www.instagram.com/slcrafao__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,15 +33,7 @@ Iniciei meus esudos na área de programação em 2022.
   <a href="https://www.linkedin.com/in/rafael-senegaglia-de-souza-82ba69230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-
-<br><img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSenegaglia&layout=compact&theme=radical">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelSenegaglia&show_icons=true&theme=radical">
-
-
-
-
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=008000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)](https://github.com/RafaelSenegaglia)
+[![Typing SVG] (https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=008000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)](https://github.com/RafaelSenegaglia)
 
