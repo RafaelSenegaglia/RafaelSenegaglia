@@ -35,5 +35,5 @@ Iniciei meus estudos na área de programação em 2022.
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-[![Typing SVG] (https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=008000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)](https://github.com/RafaelSenegaglia)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=008000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)](https://github.com/RafaelSenegaglia)
 
