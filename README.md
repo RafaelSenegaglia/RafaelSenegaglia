@@ -32,7 +32,7 @@ Iniciei meus estudos na área de programação em 2022.
   <a href = "mailto:contatorafaelsenegaglia@gmal.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-senegaglia-de-souza-82ba69230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
-
+ 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=008000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)](https://github.com/RafaelSenegaglia)
