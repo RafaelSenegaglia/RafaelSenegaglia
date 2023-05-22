@@ -9,7 +9,7 @@ Iniciei meus estudos na área de programação em 2022.
 * 🌍 Eu nasci e moro em Curitiba-PR 🇧🇷
 * ✉️ Você pode contatar-me via contatorafaelsenegaglia@gmail.com
 * 🧠 Estou estudando sobre JavaScrip e MySQL
-* 📚 Estudando Egenharia de Software 
+* 📚 Estudando Engenharia de Software 
 
 <h3> Tecnologias mais utilizadas: 🚀</h3> 
 
